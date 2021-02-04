@@ -1,3 +1,5 @@
+# Note: This package is for Elm v0.18 only. For Elm 0.19 completions, see [TSFoster/fish-elm-completion](https://github.com/TSFoster/fish-elm-completion)
+
 # Elm completions for `fish`
 
 ## Features
